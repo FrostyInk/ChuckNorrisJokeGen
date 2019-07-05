@@ -1,0 +1,16 @@
+class Config:
+	TITLE = 'Chuck Norris'
+	WIDTH = '350'
+	HEIGHT = '250'
+	FONT_FAMILY = 'Calibri'
+	FONT_SIZE = '13'
+
+	FRAME_COLOR = '#bd741a'
+
+	JOKE_BACKGROUND_COLOR = '#2e2e2d'
+	JOKE_BORDER_COLOR = '#ff8d00'
+	JOKE_BORDER_THICKNESS = '2'
+	JOKE_TEXT_COLOR = '#ffe98a'
+
+	BUTTON_COLOR = '#1b3826'
+	BUTTON_PRESSED_COLOR = '#2a332d'
