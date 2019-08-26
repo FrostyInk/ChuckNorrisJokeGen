@@ -1,7 +1,7 @@
 # ChuckNorrisJokeGen
 Fetches a Chuck Norris Joke :>
 
-
-requires Chuck Norris API
+# Libraries
+https://api.chucknorris.io/
 
 $ pip install chuck-norris-python
